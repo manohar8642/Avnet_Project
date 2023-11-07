@@ -1,0 +1,23 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: admin
+      password: $2b$12$vuaf19AN2SeRgu3gCFuVoucUtC9jXH3l3LclpCdQZnN7Np.cWI0Xi
+      role: avnet
+    akheter1:
+      email: akheter1@asu.edu
+      name: Amit Kheterpal
+      password: $2b$12$RP.aPU6H1d4uwQqeQlp4IOMqNRig4nf0sWtQSjc9f1hBnPOhwAfqW
+      role: customer
+    mfr23:
+      email: MFR23@xyz.com
+      name: Manufacturer No. 23
+      password: $2b$12$c2l1mHjIquiYCMe00t700uSu41LlIchcmS5hSOkVqKeArdKcc9Y4.
+      role: manufacturer
+preauthorized:
+  emails: admin@gmail.com

@@ -1,0 +1,16 @@
+streamlit==1.17.0
+streamlit-authenticator==0.2.1
+pandas==1.5.3
+streamlit-aggrid
+xlrd
+plotly
+pmdarima
+modin
+matplotlib
+geopy
+prophet
+openpyxl
+xlsxwriter
+folium
+kaleido
+streamlit_folium
